@@ -1,0 +1,8 @@
+PyAutoGUI
+selenium
+openpyxl
+requests
+PIL
+pytesseract
+urllib3
+
